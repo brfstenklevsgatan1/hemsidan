@@ -1,0 +1,7 @@
+main:
+  - title: "Nyheter"
+    url: /posts/
+  - title: "För medlemmar"
+    url: /members/
+  - title: "Om"
+    url: /about/
