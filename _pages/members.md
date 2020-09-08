@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_image: /assets/images/house_wide.jpg
 intro:
-  - excerpt: 'Information till medlemmar' 
+  - excerpt: 'Här finner ni information som kan vara av intresse som medlem i BRF Stenklevsgatan 1' 
 feature_row:
   - image_path: /assets/images/money.jpg
     alt: "Ekonomi"

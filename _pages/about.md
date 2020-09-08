@@ -1,10 +1,11 @@
 ---
 layout: single
 permalink: /about/
-title: Information om Brf Stenklevsgatan 1
+title: Information om BRF Stenklevsgatan 1
 ---
 ## Föreningen
-Brf Stenklevsgatan 1 bildades 2008 och består av 27 lägenheter. Av dessa är 26 bostadsrätter och en hyresrätt. 
+BRF Stenklevsgatan 1 bildades 2008 och består av 27 lägenheter. Av dessa är 26 bostadsrätter och en hyresrätt. 
+
 ## Styrelse
 Föreningens styrelse består av:
 - Kalle Klockars (Ordförande)

@@ -1,11 +1,11 @@
 ---
-title: "Välkommen till Brf Stenklevsgatan 1 i Majorna"
+title: "Välkommen till BRF Stenklevsgatan 1 i Majorna"
 permalink: /
 layout: splash
 header:
   overlay_image: /assets/images/house_wide.jpg
 intro: 
-  - excerpt: 'Brf stenklevsgatan 1 i Majorna är en förening som består av 27 lägenheter. Huset byggdes 1937 och föreningen bildades 2008.' 
+  - excerpt: 'BRF stenklevsgatan 1 i Majorna är en förening som består av 27 lägenheter. Huset byggdes 1937 och föreningen bildades 2008.' 
 feature_row:
   - image_path: /assets/images/news.jpg
     alt: "Nyheter"
