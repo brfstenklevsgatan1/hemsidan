@@ -10,7 +10,7 @@ feature_row:
   - image_path: /assets/images/money.jpg
     alt: "Ekonomi"
     title: "Ekonomi"
-    excerpt: "Föreningen använder Sveriges BostadsrättsCentrum som ekonmisk förvaltare. Alla medlemmar kan logga in på deras hemsida och t.ex. administrera inbetalningar."
+    excerpt: "Föreningen använder Sveriges BostadsrättsCentrum som ekonomisk förvaltare. Alla medlemmar kan logga in på deras hemsida och t.ex. administrera inbetalningar."
     url: "https://varbrf.sbc.se"
     btn_label: "Till SBC"
     btn_class: "btn--inverse"
@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/docs.jpg
     alt: "Dokument"
     title: "Dokument"
-    excerpt: "Styrelsen publicerar dokument som kan vara av intresse för medlemmar. Detta inkluderar: stagar, årsredovisnigar och riktlinjer."
+    excerpt: "Styrelsen publicerar dokument som kan vara av intresse för medlemmar. Detta inkluderar: stadgar, årsredovisningar och riktlinjer."
     url: /documents/
     btn_label: "Till Dokument"
     btn_class: "btn--inverse"
