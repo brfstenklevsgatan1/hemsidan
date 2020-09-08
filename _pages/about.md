@@ -12,6 +12,7 @@ Föreningens styrelse består av:
 - Christian Jensen (Ledamot)
 - Victor Järnros (Ledamot)
 - Eric Andrén (Ledamot)
+- Fredrik Gustafsson (Ledamot)
 - Olof Gunnarsson (Ledamot)
 - Fanny Spång (Suppleant)
 - Mats Johnson (Suppleant)
