@@ -17,5 +17,5 @@ Föreningens styrelse består av:
 - Mats Johnson (Suppleant)
 
 ## Kontakt
-Det går bra att kontakta styrelsen på email <styrelsen@brfstenklevsgatan.se>
+Det går bra att kontakta styrelsen på email <styrelsen@brfstenklevsgatan1.se>
 
