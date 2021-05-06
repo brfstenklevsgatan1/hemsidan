@@ -4,6 +4,7 @@ layout: single
 permalink: /documents/
 ---
 ## Årsredovisningar
+ - [Årsredovisning 2020](/assets/files/Årsredovisning%202020.pdf)
  - [Årsredovisning 2019](/assets/files/Årsredovisning%202019.pdf)
  - [Årsredovisning 2018](/assets/files/Årsredovisning%202018.pdf)
 
