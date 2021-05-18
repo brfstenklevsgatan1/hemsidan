@@ -8,7 +8,6 @@ Föreningen genomförde stämman för 2020. Ny styrelse valdes fram och den best
 - Erik Månsson (Ledamot)
 - Elin Forså (Ledamot)
 - Fredrik Gustafsson (Ledamot)
-- Olof Gunnarsson (Ledamot)
 - Kalle Klockars (Suppleant)
 - Christian Jensen (Suppleant) 
 - Karin Aamot (Suppleant)
