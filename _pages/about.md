@@ -8,14 +8,14 @@ BRF Stenklevsgatan 1 bildades 2008 och består av 27 lägenheter. Av dessa är 2
 
 ## Styrelse
 Föreningens styrelse består av:
-- Kalle Klockars (Ordförande)
-- Christian Jensen (Ledamot)
-- Victor Järnros (Ledamot)
-- Eric Andrén (Ledamot)
+- Olof Gunnarsson (Ordförande)
+- Erik Månsson (Ledamot)
+- Elin Forså (Ledamot)
 - Fredrik Gustafsson (Ledamot)
 - Olof Gunnarsson (Ledamot)
-- Fanny Spång (Suppleant)
-- Mats Johnson (Suppleant)
+- Kalle Klockars (Suppleant)
+- Christian Jensen (Suppleant)
+- Karin Aamot (Suppleant)
 
 ## Kontakt
 Det går bra att kontakta styrelsen på email <styrelsen@brfstenklevsgatan1.se>
