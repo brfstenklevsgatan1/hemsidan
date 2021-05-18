@@ -12,7 +12,6 @@ Föreningens styrelse består av:
 - Erik Månsson (Ledamot)
 - Elin Forså (Ledamot)
 - Fredrik Gustafsson (Ledamot)
-- Olof Gunnarsson (Ledamot)
 - Kalle Klockars (Suppleant)
 - Christian Jensen (Suppleant)
 - Karin Aamot (Suppleant)

@@ -9,6 +9,5 @@ Föreningen genomförde stämman för 2021. På stämman valdes en ny styrelse f
 - Victor Järnros (Ledamot)
 - Eric Andrén (Ledamot)
 - Fredrik Gustafsson (Ledamot)
-- Olof Gunnarsson (Ledamot)
 - Fanny Spång (Suppleant)
 - Mats Johnson (Suppleant)
