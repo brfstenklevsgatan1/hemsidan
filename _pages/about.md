@@ -11,9 +11,10 @@ Föreningens styrelse består av:
 - Olof Gunnarsson (Ordförande)
 - Erik Månsson (Ledamot)
 - Elin Forså (Ledamot)
+- Maria Wederbrand (Ledamot)
+- Emelie Falk (Ledamot)
 - Kalle Klockars (Suppleant)
 - Christian Jensen (Suppleant)
-- Karin Aamot (Suppleant)
 
 ## Kontakt
 Det går bra att kontakta styrelsen på email <styrelsen@brfstenklevsgatan1.se>
