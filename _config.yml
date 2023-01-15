@@ -4,8 +4,8 @@ description: >-
 include: ["_pages", "_data"]
 locale: "sv-SE"
 
-# Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.20.1"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
