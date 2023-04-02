@@ -1,5 +1,6 @@
 ---
 layout: posts
+title: Föreningsstämma
 ---
 {{ page.date | date: "%Y-%m-%d" }}
 

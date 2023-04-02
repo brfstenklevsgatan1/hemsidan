@@ -1,5 +1,6 @@
 ---
 layout: posts
+title: Energideklaration
 ---
 {{ page.date | date: "%Y-%m-%d" }}
 

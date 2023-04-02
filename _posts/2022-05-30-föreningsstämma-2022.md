@@ -1,5 +1,6 @@
 ---
 layout: posts
+title: Föreningsstämma 2022
 ---
 {{ page.date | date: "%Y-%m-%d" }}
 

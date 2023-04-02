@@ -1,5 +1,6 @@
 ---
-layout: posts
+layout: post
+title: Årsredovisning 2020
 ---
 {{ page.date | date: "%Y-%m-%d" }}
 

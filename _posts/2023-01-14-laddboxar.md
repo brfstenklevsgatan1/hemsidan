@@ -1,5 +1,6 @@
 ---
 layout: posts
+title: Laddboxar
 ---
 {{ page.date | date: "%Y-%m-%d" }}
 

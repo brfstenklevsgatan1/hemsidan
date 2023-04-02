@@ -1,5 +1,6 @@
 ---
 layout: posts
+title: Tidpunkt för årsstämma 2021
 ---
 {{ page.date | date: "%Y-%m-%d" }}
 
