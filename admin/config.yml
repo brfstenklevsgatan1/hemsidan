@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: brfstenklevsgatan1/hemsidan
   branch: gh-pages
 media_folder: 'assets/uploads'
 collections:
