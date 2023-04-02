@@ -18,18 +18,23 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "dated_post"}
       - {label: "Body", name: "body", widget: "markdown"}
-
   - name: "documents"
     label: "Documents"
-    file: "_pages/documents.md"
-    fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "single"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+    files:
+      - file: "_pages/documents.md"
+        label: "Documents Page"
+        name: "documents"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "single"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
   - name: "about"
     label: "About"
-    file: "_pages/about.md"
-    fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "single"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+    files:
+      - file: "_pages/about.md"
+        label: "Documents Page"
+        name: "documents"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "single"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
