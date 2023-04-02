@@ -16,7 +16,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Layout", name: "layout", widget: "hidden", default: "posts"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "dated_post"}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "documents"
