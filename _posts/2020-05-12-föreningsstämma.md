@@ -1,8 +1,8 @@
 ---
 layout: posts
+title: Föreningsstämma
+show_date: true
 ---
-{{ page.date | date: "%Y-%m-%d" }}
-
 Föreningen genomförde stämman för 2021. På stämman valdes en ny styrelse fram och den består av:
 - Kalle Klockars (Ordförande)
 - Christian Jensen (Ledamot)

@@ -1,7 +1,8 @@
 ---
 layout: posts
+title: Föreningsstämma 2021
+show_date: true
 ---
-{{ page.date | date: "%Y-%m-%d" }}
 
 Föreningen genomförde stämman för 2020. Ny styrelse valdes fram och den består av:
 - Olof Gunnarsson (Ordförande)
