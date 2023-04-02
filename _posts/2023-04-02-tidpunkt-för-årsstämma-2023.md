@@ -1,0 +1,6 @@
+---
+layout: posts
+---
+{{ page.date | date: "%Y-%m-%d" }}
+
+Den 30:e maj kl 19:00 kommer Brf Stenklevsgatan 1 att hålla föreningsstämma utanför entren till 1B. Vid dåligt väder samlas vi i tvättstugan. Varmt välkomna!
