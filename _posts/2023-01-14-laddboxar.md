@@ -2,7 +2,7 @@
 layout: posts
 title: Laddboxar
 show_date: true
-date: 2023-01-14
+date: 2023-01-14T10:30:00-01:00
 ---
 Brf Stenklevsgatan 1 i Majorna har satt upp fem stycken laddboxar. Betallösning köper föreningen av Opigo.
 
