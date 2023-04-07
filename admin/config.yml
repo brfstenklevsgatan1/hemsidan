@@ -29,13 +29,13 @@ collections:
         fields:
           - { label: "Layout", name: "layout", widget: "hidden", default: "single" }
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "File", name: "uploaded_file", widget: "file", required: "false" }
+          - { label: "File", name: "uploaded_file", widget: "file", required: false }
           - { label: "Body", name: "body", widget: "markdown" }
       - file: "_pages/about.md"
         label: "About"
         name: "About"
         fields:
           - { label: "Layout", name: "layout", widget: "hidden", default: "single" }
-          - { label: "File", name: "uploaded_file", widget: "file", required: "false" }
+          - { label: "File", name: "uploaded_file", widget: "file", required: false }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
