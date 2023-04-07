@@ -2,6 +2,7 @@
 layout: posts
 title: Föreningsstämma 2022
 show_date: true
+date: 2022-05-30
 ---
 Föreningen genomförde stämman för året 2021. Ny styrelse valdes fram och den består av:
 - Olof Gunnarsson (Ordförande)
