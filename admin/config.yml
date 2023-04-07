@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: brfstenklevsgatan1/hemsidan
-  branch: gh-pages
+  branch: master
 
 publish_mode: simple
 
