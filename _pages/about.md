@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /about/
-uploaded_file: /assets/files/Energideklaration 2020.pdf
+uploaded_file: ""
 title: Information om BRF Stenklevsgatan 1
 ---
 ## Föreningen
