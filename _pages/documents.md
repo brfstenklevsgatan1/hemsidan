@@ -1,9 +1,10 @@
 ---
-title: Dokument
 layout: single
+title: Dokument
 permalink: /documents/
 ---
 ## Årsredovisningar
+ - [Årsredovisning 2021](/assets/files/årsredovisning%202022.pdf)
  - [Årsredovisning 2021](/assets/files/Årsredovisning%202021.pdf)
  - [Årsredovisning 2020](/assets/files/Årsredovisning%202020.pdf)
  - [Årsredovisning 2019](/assets/files/Årsredovisning%202019.pdf)
