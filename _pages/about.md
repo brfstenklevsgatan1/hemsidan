@@ -19,12 +19,11 @@ BRF Stenklevsgatan 1 bildades 2008 och består av 27 lägenheter. Av dessa är 2
 Föreningens styrelse består av:
 
 * Olof Gunnarsson (Ordförande)
-* Erik Månsson (Ledamot)
 * Elin Forså (Ledamot)
 * Maria Wederbrand (Ledamot)
-* Emelie Falk (Ledamot)
-* Kalle Klockars (Suppleant)
-* Christian Jensen (Suppleant)
+* Stina Arrhenius (Ledamot)
+* Oscar Winblad (Ledamot)
+* Erik Månsson (Suppleant)
 
 ## Kontakt
 
