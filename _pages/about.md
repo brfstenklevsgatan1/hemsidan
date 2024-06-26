@@ -14,17 +14,6 @@ BRF Stenklevsgatan 1 bildades 2008 och består av 27 lägenheter. Av dessa är 2
 
 *Göteborgs Gatunamn 1621-2000, Greta Baum, 2001, s. 269*
 
-## Styrelse
-
-Föreningens styrelse består av:
-
-* Olof Gunnarsson (Ordförande)
-* Elin Forså (Ledamot)
-* Maria Wederbrand (Ledamot)
-* Stina Arrhenius (Ledamot)
-* Oscar Winblad (Ledamot)
-* Erik Månsson (Suppleant)
-
 ## Kontakt
 
 Det går bra att kontakta styrelsen på email [styrelsen@brfstenklevsgatan1.se](mailto:styrelsen@brfstenklevsgatan1.se)
