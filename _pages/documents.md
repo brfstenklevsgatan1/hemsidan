@@ -17,5 +17,5 @@ uploaded_file: /assets/files/årsredovisning-2024.pdf
 ## Övrigt
 
 * [Stadgar](/assets/files/Stadgar%20Brf%20Stenklevsgatan%201%20i%20Majorna%20maj%202019.pdf)
-* [Riktlinjer parkeringsplatser](/assets/files/Riktlinjer%20P-platser.pdf)
+* [Riktlinjer för parkeringsplatser](/assets/files/Riktlinjer%20P-platser.pdf)
 * [Energideklaration](/assets/files/Energideklaration%202020.pdf)
